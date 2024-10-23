@@ -1,0 +1,25 @@
+
+{
+    "products": [
+        {
+            "name": "Raqueta de Pádel Pro",
+            "price": 120,
+            "image": "raqueta-padel.jpg"
+        },
+        {
+            "name": "Raqueta de Tenis Pro",
+            "price": 150,
+            "image": "raqueta-tenis.jpg"
+        },
+        {
+            "name": "Zapatillas Deportivas",
+            "price": 90,
+            "image": "zapatillas.jpg"
+        },
+        {
+            "name": "Accesorios Deportivos",
+            "price": 50,
+            "image": "accesorios.jpg"
+        }
+    ]
+}
